@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /eshop/
+
+Sitemap: https://www.dermabodyclinic.cz/sitemap.xml
