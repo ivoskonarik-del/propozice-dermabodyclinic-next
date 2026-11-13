@@ -1,0 +1,50 @@
+DERMA BODY CLINIC – zdroje videí, fotografií a písem
+====================================================
+
+VIDEA (Pexels License – bezplatné komerční užití, úprava povolena, uvedení autora není
+povinné, ale uvádíme ho; https://www.pexels.com/license/)
+
+1) Úvodní video (hero) – kapka séra z pipety na pokožku
+   soubory: video/hero-1920.mp4, video/hero-720.mp4 (+ plakáty .jpg)
+   zdroj:   https://www.pexels.com/video/cosmetic-dripping-from-pipette-10098025/
+   autor:   PinkWitch 诸葛筱暖 – https://www.pexels.com/@pinkwitch-3302622/
+
+2) Péče o pleť – masáž obličeje
+   soubory: video/plet-45.mp4, video/plet-1600.mp4 (+ plakáty .jpg)
+   zdroj:   https://www.pexels.com/video/woman-getting-a-facial-massage-5659242/
+   autor:   Ivan S – https://www.pexels.com/@ivan-s/
+
+3) Péče o tělo – masáž zad olejem
+   soubory: video/telo-45.mp4, video/telo-1600.mp4 (+ plakáty .jpg)
+   zdroj:   https://www.pexels.com/video/a-video-of-a-masseuse-spreading-massage-oil-on-a-woman-s-back-6628402/
+   autor:   KoolShooters – https://www.pexels.com/@koolshooters/
+
+4) Kosmetické ošetření pleti – zlaté sérum na zrcadle
+   soubory: video/serum-1600.mp4 (+ plakát .jpg)
+   zdroj:   https://www.pexels.com/video/woman-pouring-cosmetic-on-mirror-10097635/
+   autor:   PinkWitch 诸葛筱暖 – https://www.pexels.com/@pinkwitch-3302622/
+
+5) Tělové zábaly – nanášení masážního oleje
+   soubory: video/olej-1600.mp4 (+ plakát .jpg)
+   zdroj:   https://www.pexels.com/video/a-video-of-a-masseuse-pouring-and-applying-massage-oil-6628563/
+   autor:   KoolShooters – https://www.pexels.com/@koolshooters/
+
+6) Prostory kliniky (průchod klinikou)
+   soubory: video/interier-1920.mp4, video/interier-45.mp4 (+ plakáty .jpg)
+           a fotografie images/interier/recepce.jpg, osetrovna.jpg, vstup-osetrovna.jpg
+           (snímky z tohoto videa)
+   zdroj:   vlastní video Derma Body Clinic „DBC_loop.mp4“ z původního webu
+            dermabodyclinic.cz (media/video/DBC_loop.mp4), barevně sjednoceno a zkráceno
+
+Úpravy všech videí: výřez, zkrácení na plynulou smyčku (prolínačka konce do začátku),
+převod na H.264 bez zvuku (1080p desktop / menší mobilní verze), statický plakát.
+
+FOTOGRAFIE
+- images/prostory/*, images/interier/klinika-okno.jpg, images/osetreni/*,
+  images/pristroje/*, images/galerie/* – fotografie z původního webu dermabodyclinic.cz
+  (prostory kliniky a podklady výrobců přístrojů, jak je klinika na webu používala).
+- media/derma-body-clinic-logo.pdf, .png – oficiální logo (sekce Pro média původního webu).
+
+PÍSMA (SIL Open Font License 1.1)
+- Noto Serif Display (Google) – vlastní podmnožina znaků pro češtinu, řez 300–400.
+- Jost (Owen Earl / indestructible type*) – přes next/font, servírováno z vlastní domény.
